@@ -6,7 +6,7 @@ im
 
 and outputs a list of movies with similar features
 
-![output_image](image/Screenshot.png)
+![output_image](image/Screenshot1.png)
 
 
 
