@@ -6,7 +6,7 @@ im
 
 and outputs a list of movies with similar features
 
-![output_image](image/Screenshot 2021-06-16 at 12.32.10 PM.png)
+![output_image](/image/Screenshot 2021-06-16 at 12.32.10 PM.png)
 
 
 
