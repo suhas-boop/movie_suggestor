@@ -1,6 +1,6 @@
 > Movie recommendation system 
 
-it is a content based recommendation system ,using the features['keywords','cast','genres','director'] of each movie as a vector .
+This project is a content based recommendation system ,using the features['keywords','cast','genres','director'] of each movie as a vector .
 our recommendation system apply "cosine similarity" on these feature of every movie 
 im
 
